@@ -1,0 +1,101 @@
+Crime_ID,Date,Time,City,Area,Crime_Type,Latitude,Longitude,Victim_Age,Victim_Gender,Weapon_Used,Severity,Police_Station,Status
+NGP0001,2024-01-26,23:20,Nagpur,Mahal,Assault,21.142892,79.105414,52,Male,Unknown,Medium,Mahal Police Station,Closed
+NGP0002,2024-01-31,02:10,Nagpur,Sadar,Assault,21.161212,79.085591,59,Other,Unknown,High,Sadar Police Station,Closed
+NGP0003,2025-04-04,18:20,Nagpur,Jaripatka,Theft,21.167277,79.049381,35,Male,Knife,Medium,Jaripatka Police Station,Solved
+NGP0004,2024-04-04,12:00,Nagpur,Mahal,Fraud,21.14183,79.106457,64,Female,Unknown,High,Mahal Police Station,Reported
+NGP0005,2024-03-21,17:20,Nagpur,Khamla,Harassment,21.105619,79.081637,20,Other,Knife,High,Khamla Police Station,Solved
+NGP0006,2024-08-26,03:30,Nagpur,Sitabuldi,Cyber Crime,21.146885,79.087119,41,Female,Knife,Critical,Sitabuldi Police Station,Solved
+NGP0007,2025-09-15,20:10,Nagpur,Sitabuldi,Missing Person,21.143107,79.087236,58,Other,Unknown,Medium,Sitabuldi Police Station,Under Investigation
+NGP0008,2024-02-27,07:00,Nagpur,Ajni,Fraud,21.12153,79.093305,54,Other,Stick,Medium,Ajni Police Station,Under Investigation
+NGP0009,2025-02-09,20:30,Nagpur,Wadi,Burglary,21.142117,78.98196,52,Female,Unknown,High,Wadi Police Station,Closed
+NGP0010,2025-02-12,11:10,Nagpur,Pardi,Burglary,21.156727,79.146377,25,Male,Knife,Critical,Pardi Police Station,Closed
+NGP0011,2024-03-06,12:30,Nagpur,Kamptee Road,Harassment,21.180233,79.123769,18,Other,No Weapon,Critical,Kamptee Road Police Station,Solved
+NGP0012,2024-04-24,09:30,Nagpur,Ajni,Burglary,21.121026,79.091777,64,Female,Unknown,Critical,Ajni Police Station,Under Investigation
+NGP0013,2024-04-18,20:20,Nagpur,Besa,Missing Person,21.077223,79.0921,52,Other,No Weapon,Medium,Besa Police Station,Solved
+NGP0014,2024-01-20,03:20,Nagpur,Wadi,Cyber Crime,21.141463,78.983024,23,Male,Firearm,Medium,Wadi Police Station,Reported
+NGP0015,2024-05-08,04:50,Nagpur,Trimurti Nagar,Vandalism,21.122321,79.040221,56,Female,Knife,High,Trimurti Nagar Police Station,Under Investigation
+NGP0016,2025-02-12,21:50,Nagpur,Wardhaman Nagar,Fraud,21.155141,79.116968,32,Male,Stick,Medium,Wardhaman Nagar Police Station,Reported
+NGP0017,2025-07-21,07:40,Nagpur,Pardi,Assault,21.161663,79.146471,22,Male,Stick,Low,Pardi Police Station,Reported
+NGP0018,2024-08-31,08:50,Nagpur,Besa,Vandalism,21.077058,79.093484,54,Other,Firearm,Low,Besa Police Station,Under Investigation
+NGP0019,2025-02-20,06:00,Nagpur,Wadi,Robbery,21.143834,78.979289,64,Male,No Weapon,High,Wadi Police Station,Reported
+NGP0020,2024-12-13,03:10,Nagpur,Khamla,Assault,21.104589,79.079375,35,Female,Knife,Medium,Khamla Police Station,Reported
+NGP0021,2025-07-17,03:00,Nagpur,Koradi,Missing Person,21.248752,79.103411,33,Male,Firearm,Low,Koradi Police Station,Closed
+NGP0022,2024-08-06,12:00,Nagpur,Wadi,Burglary,21.141017,78.979123,68,Female,Stick,Critical,Wadi Police Station,Closed
+NGP0023,2025-11-08,22:30,Nagpur,Trimurti Nagar,Burglary,21.123374,79.04375,55,Other,Unknown,Medium,Trimurti Nagar Police Station,Reported
+NGP0024,2024-02-28,01:40,Nagpur,Ajni,Vandalism,21.127822,79.087259,50,Male,Knife,Medium,Ajni Police Station,Reported
+NGP0025,2024-03-10,21:10,Nagpur,Kamptee Road,Vehicle Theft,21.183122,79.11797,56,Male,Unknown,Low,Kamptee Road Police Station,Reported
+NGP0026,2025-11-04,18:40,Nagpur,Pratap Nagar,Missing Person,21.133478,79.047634,63,Female,Knife,High,Pratap Nagar Police Station,Solved
+NGP0027,2024-05-14,21:50,Nagpur,Khamla,Cyber Crime,21.103529,79.082015,22,Male,Firearm,Critical,Khamla Police Station,Reported
+NGP0028,2025-07-04,06:40,Nagpur,Sitabuldi,Cyber Crime,21.149266,79.091247,33,Female,Stick,Medium,Sitabuldi Police Station,Under Investigation
+NGP0029,2025-07-10,22:20,Nagpur,Koradi,Harassment,21.246343,79.100437,60,Male,Knife,Low,Koradi Police Station,Solved
+NGP0030,2024-04-19,23:40,Nagpur,Mahal,Burglary,21.139254,79.101685,39,Male,Stick,High,Mahal Police Station,Closed
+NGP0031,2024-02-22,02:50,Nagpur,Hingna,Vehicle Theft,21.096353,78.968668,26,Other,Stick,High,Hingna Police Station,Under Investigation
+NGP0032,2025-07-18,22:30,Nagpur,Koradi,Missing Person,21.241895,79.10356,62,Male,Unknown,Low,Koradi Police Station,Reported
+NGP0033,2025-08-19,17:10,Nagpur,Civil Lines,Vehicle Theft,21.148466,79.078192,68,Male,Stick,Low,Civil Lines Police Station,Under Investigation
+NGP0034,2025-11-13,03:20,Nagpur,Jaripatka,Missing Person,21.173791,79.051996,33,Male,Knife,Critical,Jaripatka Police Station,Closed
+NGP0035,2024-07-02,23:20,Nagpur,Dharampeth,Vehicle Theft,21.146713,79.082686,35,Male,No Weapon,High,Dharampeth Police Station,Closed
+NGP0036,2025-04-26,07:10,Nagpur,Sadar,Vandalism,21.167564,79.090971,32,Male,Knife,Low,Sadar Police Station,Closed
+NGP0037,2024-10-12,02:20,Nagpur,Ajni,Fraud,21.124197,79.093849,52,Female,No Weapon,Medium,Ajni Police Station,Reported
+NGP0038,2024-07-01,18:20,Nagpur,Hingna,Theft,21.099477,78.971828,38,Female,Unknown,Low,Hingna Police Station,Reported
+NGP0039,2025-08-13,06:20,Nagpur,Khamla,Theft,21.101014,79.083405,52,Other,Knife,Medium,Khamla Police Station,Solved
+NGP0040,2024-03-12,21:20,Nagpur,Pratap Nagar,Harassment,21.131307,79.046997,37,Other,Stick,High,Pratap Nagar Police Station,Closed
+NGP0041,2025-02-16,22:20,Nagpur,Ajni,Missing Person,21.122535,79.091319,42,Other,Knife,Medium,Ajni Police Station,Solved
+NGP0042,2025-07-15,00:20,Nagpur,Khamla,Cyber Crime,21.104439,79.08064,59,Female,Firearm,Medium,Khamla Police Station,Closed
+NGP0043,2025-11-22,06:40,Nagpur,Koradi,Vandalism,21.248679,79.101888,60,Male,Stick,Medium,Koradi Police Station,Solved
+NGP0044,2024-08-28,21:20,Nagpur,Sitabuldi,Assault,21.142979,79.08457,48,Other,No Weapon,High,Sitabuldi Police Station,Closed
+NGP0045,2025-10-06,18:10,Nagpur,Pratap Nagar,Vehicle Theft,21.127952,79.051248,18,Male,Firearm,Medium,Pratap Nagar Police Station,Under Investigation
+NGP0046,2025-12-13,16:30,Nagpur,Mankapur,Theft,21.18334,79.066971,26,Female,Unknown,Medium,Mankapur Police Station,Solved
+NGP0047,2025-09-19,23:40,Nagpur,Koradi,Vehicle Theft,21.245383,79.103178,65,Female,Firearm,High,Koradi Police Station,Solved
+NGP0048,2025-10-14,08:40,Nagpur,Jaripatka,Vandalism,21.168197,79.04662,36,Male,Stick,Medium,Jaripatka Police Station,Solved
+NGP0049,2025-07-07,02:10,Nagpur,Ajni,Burglary,21.124064,79.087222,31,Male,Firearm,Medium,Ajni Police Station,Closed
+NGP0050,2025-07-09,14:30,Nagpur,Ajni,Theft,21.124361,79.093239,55,Other,No Weapon,Low,Ajni Police Station,Closed
+NGP0051,2024-01-07,11:20,Nagpur,Wadi,Vehicle Theft,21.148627,78.979352,65,Other,Unknown,High,Wadi Police Station,Under Investigation
+NGP0052,2024-08-12,08:30,Nagpur,Wadi,Vandalism,21.143689,78.981433,43,Other,Knife,Low,Wadi Police Station,Closed
+NGP0053,2025-09-29,17:00,Nagpur,Manewada,Vehicle Theft,21.112304,79.107672,45,Male,Firearm,Medium,Manewada Police Station,Under Investigation
+NGP0054,2024-09-23,12:20,Nagpur,Sadar,Assault,21.1637,79.091037,35,Female,Stick,High,Sadar Police Station,Reported
+NGP0055,2024-01-20,23:40,Nagpur,Wadi,Theft,21.1438,78.981201,67,Other,No Weapon,Critical,Wadi Police Station,Reported
+NGP0056,2024-07-23,00:40,Nagpur,Jaripatka,Burglary,21.16701,79.051356,54,Male,Firearm,Medium,Jaripatka Police Station,Solved
+NGP0057,2024-06-20,19:40,Nagpur,Civil Lines,Robbery,21.14731,79.073488,55,Male,Stick,High,Civil Lines Police Station,Closed
+NGP0058,2024-07-22,02:40,Nagpur,Khamla,Assault,21.10718,79.082802,56,Male,Unknown,Medium,Khamla Police Station,Reported
+NGP0059,2025-06-29,13:50,Nagpur,Civil Lines,Fraud,21.15118,79.071101,44,Female,No Weapon,Low,Civil Lines Police Station,Closed
+NGP0060,2025-10-12,14:50,Nagpur,Civil Lines,Burglary,21.147409,79.075174,59,Female,Unknown,Critical,Civil Lines Police Station,Closed
+NGP0061,2025-03-22,23:40,Nagpur,Koradi,Cyber Crime,21.247814,79.102646,23,Female,Firearm,High,Koradi Police Station,Under Investigation
+NGP0062,2025-08-06,19:50,Nagpur,Koradi,Vehicle Theft,21.244954,79.0986,49,Male,Stick,Low,Koradi Police Station,Solved
+NGP0063,2024-10-13,19:50,Nagpur,Ajni,Cyber Crime,21.125133,79.087528,33,Other,Firearm,Low,Ajni Police Station,Closed
+NGP0064,2024-09-03,22:30,Nagpur,Trimurti Nagar,Vandalism,21.121138,79.038354,43,Other,Knife,Medium,Trimurti Nagar Police Station,Solved
+NGP0065,2025-01-12,15:40,Nagpur,Pardi,Missing Person,21.159404,79.151967,39,Female,Firearm,High,Pardi Police Station,Solved
+NGP0066,2024-09-14,07:00,Nagpur,Wardhaman Nagar,Assault,21.156943,79.123607,62,Male,Knife,Medium,Wardhaman Nagar Police Station,Under Investigation
+NGP0067,2024-10-10,23:40,Nagpur,Wadi,Missing Person,21.148844,78.982661,36,Male,Stick,High,Wadi Police Station,Under Investigation
+NGP0068,2024-01-15,22:40,Nagpur,Wardhaman Nagar,Burglary,21.151364,79.116436,36,Other,Knife,High,Wardhaman Nagar Police Station,Closed
+NGP0069,2024-01-13,18:20,Nagpur,Mahal,Vandalism,21.139726,79.107724,34,Female,No Weapon,Medium,Mahal Police Station,Reported
+NGP0070,2025-05-18,02:40,Nagpur,Khamla,Theft,21.107489,79.083593,23,Male,No Weapon,Low,Khamla Police Station,Closed
+NGP0071,2025-09-02,19:10,Nagpur,Kamptee Road,Missing Person,21.179604,79.119542,55,Female,Stick,Critical,Kamptee Road Police Station,Reported
+NGP0072,2024-04-11,06:50,Nagpur,Kamptee Road,Assault,21.176649,79.117919,53,Male,Knife,Medium,Kamptee Road Police Station,Reported
+NGP0073,2025-04-06,22:40,Nagpur,Pratap Nagar,Vandalism,21.127852,79.051656,62,Female,No Weapon,Low,Pratap Nagar Police Station,Under Investigation
+NGP0074,2025-10-02,18:50,Nagpur,Hingna,Assault,21.100356,78.971181,35,Male,No Weapon,Medium,Hingna Police Station,Reported
+NGP0075,2024-11-10,19:50,Nagpur,Mankapur,Harassment,21.179513,79.06975,37,Other,Firearm,High,Mankapur Police Station,Solved
+NGP0076,2025-07-06,15:30,Nagpur,Besa,Robbery,21.083115,79.091876,56,Female,No Weapon,High,Besa Police Station,Reported
+NGP0077,2025-11-21,18:40,Nagpur,Jaripatka,Theft,21.171378,79.048156,20,Male,Firearm,Critical,Jaripatka Police Station,Closed
+NGP0078,2024-07-04,18:30,Nagpur,Hingna,Vandalism,21.09976,78.969267,38,Other,No Weapon,Critical,Hingna Police Station,Under Investigation
+NGP0079,2025-02-25,22:30,Nagpur,Ajni,Cyber Crime,21.127509,79.090401,47,Male,Stick,Critical,Ajni Police Station,Solved
+NGP0080,2024-04-28,12:40,Nagpur,Ajni,Theft,21.125341,79.089306,30,Other,Stick,Medium,Ajni Police Station,Closed
+NGP0081,2024-02-22,06:20,Nagpur,Koradi,Missing Person,21.248421,79.099505,62,Female,No Weapon,Medium,Koradi Police Station,Reported
+NGP0082,2024-09-02,22:10,Nagpur,Kamptee Road,Cyber Crime,21.180418,79.116746,25,Female,No Weapon,Low,Kamptee Road Police Station,Under Investigation
+NGP0083,2024-10-25,16:50,Nagpur,Wadi,Cyber Crime,21.147678,78.983842,33,Female,Unknown,Critical,Wadi Police Station,Under Investigation
+NGP0084,2024-07-14,19:40,Nagpur,Khamla,Burglary,21.10321,79.08232,44,Female,Unknown,Low,Khamla Police Station,Solved
+NGP0085,2024-10-16,23:20,Nagpur,Dharampeth,Harassment,21.146722,79.079772,48,Female,Stick,Critical,Dharampeth Police Station,Closed
+NGP0086,2024-11-25,06:50,Nagpur,Koradi,Assault,21.242868,79.102204,20,Female,Firearm,High,Koradi Police Station,Closed
+NGP0087,2025-11-10,20:10,Nagpur,Khamla,Vandalism,21.10201,79.083723,39,Male,Firearm,Critical,Khamla Police Station,Reported
+NGP0088,2025-04-12,00:50,Nagpur,Besa,Burglary,21.082967,79.09376,22,Female,Stick,Critical,Besa Police Station,Solved
+NGP0089,2025-12-10,12:50,Nagpur,Kamptee Road,Robbery,21.182819,79.122875,42,Female,Firearm,Critical,Kamptee Road Police Station,Reported
+NGP0090,2024-03-11,07:50,Nagpur,Kamptee Road,Cyber Crime,21.181974,79.119472,24,Other,No Weapon,Medium,Kamptee Road Police Station,Closed
+NGP0091,2025-12-11,09:00,Nagpur,Mankapur,Theft,21.176449,79.068868,45,Male,Knife,Low,Mankapur Police Station,Closed
+NGP0092,2025-11-29,05:10,Nagpur,Pardi,Burglary,21.160876,79.14906,61,Male,Firearm,Low,Pardi Police Station,Under Investigation
+NGP0093,2025-04-17,20:20,Nagpur,Jaripatka,Vandalism,21.166075,79.052437,36,Other,Unknown,Low,Jaripatka Police Station,Under Investigation
+NGP0094,2025-03-28,11:40,Nagpur,Sitabuldi,Cyber Crime,21.147323,79.087855,37,Male,Firearm,Critical,Sitabuldi Police Station,Closed
+NGP0095,2024-08-30,12:40,Nagpur,Mahal,Fraud,21.144942,79.102362,60,Female,Stick,Medium,Mahal Police Station,Reported
+NGP0096,2025-12-03,23:00,Nagpur,Pardi,Harassment,21.162663,79.153223,67,Male,Unknown,Critical,Pardi Police Station,Solved
+NGP0097,2025-10-13,06:40,Nagpur,Jaripatka,Cyber Crime,21.171026,79.053227,59,Male,Stick,Medium,Jaripatka Police Station,Closed
+NGP0098,2025-08-16,11:50,Nagpur,Sadar,Burglary,21.168277,79.086614,44,Male,Knife,Low,Sadar Police Station,Under Investigation
+NGP0099,2025-01-09,16:40,Nagpur,Trimurti Nagar,Cyber Crime,21.123056,79.042598,48,Female,Stick,Medium,Trimurti Nagar Police Station,Reported
+NGP0100,2024-03-18,04:10,Nagpur,Koradi,Vehicle Theft,21.247437,79.098926,68,Female,No Weapon,Critical,Koradi Police Station,Solved
